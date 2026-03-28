@@ -20,19 +20,30 @@
 
 ### 💻 Languages
 
-`C++` `Java` `JavaScript` `Python` `HTML` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css" height="45"/>
+</p>
 
 ### ⚙️ Frameworks & Libraries
 
-`React.js` `Next.js` `Node.js` `Tailwind CSS`
-
-### 🧰 Tools & Platforms
-
-`GitHub` `VS Code` `Jupyter Notebook`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" height="45"/>
+</p>
 
 ### 🗄️ Databases
 
-`MongoDB` `MySQL` `Oracle SQL` `Strapi`
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter"/>
+</p>
 
 ---
 
@@ -40,12 +51,12 @@
 
 ### 💻 Software Engineer Intern — EMRx
 
-- 🚀 Leading development of **Radx**, a next-gen evolution of Emrald, designed as a **scalable, reusable component-based healthcare platform**
-- 🧠 Implementing **AI-driven semantic merging pipelines** to intelligently generate and structure diagnostic reports (ultrasound & imaging)
-- 📚 Integrating a **validated medical Knowledge Base (KB)** to ensure clinical accuracy, consistency, and compliance in AI-generated outputs
-- 🏥 Building systems that seamlessly interact with **PACS and medical imaging workflows**, enabling automated report generation
-- ⚡ Reducing manual effort and operational friction for hospitals while improving turnaround time and reliability
-- 🔒 Architecting solutions with focus on **data integrity, validation layers, and real-world clinical constraints**
+* 🚀 Leading development of **Radx**, a next-gen evolution of Emrald, designed as a **scalable, reusable component-based healthcare platform**
+* 🧠 Implementing **AI-driven semantic merging pipelines** to intelligently generate and structure diagnostic reports (ultrasound & imaging)
+* 📚 Integrating a **validated medical Knowledge Base (KB)** to ensure clinical accuracy, consistency, and compliance in AI-generated outputs
+* 🏥 Building systems that seamlessly interact with **PACS and medical imaging workflows**, enabling automated report generation
+* ⚡ Reducing manual effort and operational friction for hospitals while improving turnaround time and reliability
+* 🔒 Architecting solutions with focus on **data integrity, validation layers, and real-world clinical constraints**
 
 ### 🧪 Research Intern — IIT Guwahati
 
@@ -64,17 +75,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Swarnadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarna-deep007\&show_icons=true\&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/swarnadeep-banerjee-371827247
-* 💻 GitHub: https://github.com/swarna-deep007
-* 📧 Email: [swarnadeepbanerjee007@gmail.com](mailto:swarnadeepbanerjee007@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/swarnadeep-banerjee-371827247">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/swarna-deep007">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+📧 Email: [swarnadeepbanerjee007@gmail.com](mailto:swarnadeepbanerjee007@gmail.com)
 
 ---
 

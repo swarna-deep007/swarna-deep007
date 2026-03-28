@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **Healthcare AI Systems (DICOM Processing @ EMRx)**
+* 🔭 Currently working on **Healthcare AI Systems (Software @ EMRx)**
 * 🌱 Exploring **Machine Learning, System Design & Scalable Backend Systems**
 * 🧠 Strong interest in **DSA & Competitive Programming (500+ problems solved)**
 * 🧪 Research experience at **IIT Guwahati (Graph Algorithms & Matching Problems)**
@@ -71,7 +71,7 @@
 * 🥇 Research Intern @ IIT Guwahati (National Selection)
 * 💡 Solved **500+ DSA problems**
 * 🥈 Silver Medalist — National Science Olympiad
-* 🏊 3 Gold + 1 Silver — District Swimming Championship
+
 
 ---
 
